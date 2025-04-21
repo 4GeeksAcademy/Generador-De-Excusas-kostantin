@@ -1,5 +1,15 @@
 @import "bootstrap/dist/css/bootstrap.min.css";
 
 body{
-    background: white;
+    background: black;
+    padding: 21%;
+
+    
+}
+p{
+    background: blueviolet;
+    color: aqua;
+}
+h1{
+    color:orange
 }
